@@ -1,0 +1,14 @@
+C:\Users\sysjo\Documents\----ESTUDOS_TECONOLOGIA----\ExerciciDaLampda\bin\Debug\net8.0\ExerciciDaLampda.exe
+C:\Users\sysjo\Documents\----ESTUDOS_TECONOLOGIA----\ExerciciDaLampda\bin\Debug\net8.0\ExerciciDaLampda.deps.json
+C:\Users\sysjo\Documents\----ESTUDOS_TECONOLOGIA----\ExerciciDaLampda\bin\Debug\net8.0\ExerciciDaLampda.runtimeconfig.json
+C:\Users\sysjo\Documents\----ESTUDOS_TECONOLOGIA----\ExerciciDaLampda\bin\Debug\net8.0\ExerciciDaLampda.dll
+C:\Users\sysjo\Documents\----ESTUDOS_TECONOLOGIA----\ExerciciDaLampda\bin\Debug\net8.0\ExerciciDaLampda.pdb
+C:\Users\sysjo\Documents\----ESTUDOS_TECONOLOGIA----\ExerciciDaLampda\obj\Debug\net8.0\ExerciciDaLampda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sysjo\Documents\----ESTUDOS_TECONOLOGIA----\ExerciciDaLampda\obj\Debug\net8.0\ExerciciDaLampda.AssemblyInfoInputs.cache
+C:\Users\sysjo\Documents\----ESTUDOS_TECONOLOGIA----\ExerciciDaLampda\obj\Debug\net8.0\ExerciciDaLampda.AssemblyInfo.cs
+C:\Users\sysjo\Documents\----ESTUDOS_TECONOLOGIA----\ExerciciDaLampda\obj\Debug\net8.0\ExerciciDaLampda.csproj.CoreCompileInputs.cache
+C:\Users\sysjo\Documents\----ESTUDOS_TECONOLOGIA----\ExerciciDaLampda\obj\Debug\net8.0\ExerciciDaLampda.dll
+C:\Users\sysjo\Documents\----ESTUDOS_TECONOLOGIA----\ExerciciDaLampda\obj\Debug\net8.0\refint\ExerciciDaLampda.dll
+C:\Users\sysjo\Documents\----ESTUDOS_TECONOLOGIA----\ExerciciDaLampda\obj\Debug\net8.0\ExerciciDaLampda.pdb
+C:\Users\sysjo\Documents\----ESTUDOS_TECONOLOGIA----\ExerciciDaLampda\obj\Debug\net8.0\ExerciciDaLampda.genruntimeconfig.cache
+C:\Users\sysjo\Documents\----ESTUDOS_TECONOLOGIA----\ExerciciDaLampda\obj\Debug\net8.0\ref\ExerciciDaLampda.dll
